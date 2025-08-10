@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400600&family=Merriweather:wght@400700&display=swap')
+
+$bg-color: #121212
+$text-color: #e0e0e0
+$link-color: #90caf9
+
+body
+  font-family: 'Inter', sans-serif
+  background-color: $bg-color
+  color: $text-color
+  line-height: 1.6
+  max-width: 700px
+  margin: auto
+  padding: 2rem
+
+h1, h2, h3
+  font-family: 'Merriweather', serif
+  color: lighten($text-color, 15%)
+
+a
+  color: $link-color
+  text-decoration: none
+
+  &:hover
+    text-decoration: underline
