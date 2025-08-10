@@ -1,2 +1,4 @@
 # personal-blogs
-Blogging website.
+Personal Blogging website.
+
+#### Built With [Zola](https://www.getzola.org/)
