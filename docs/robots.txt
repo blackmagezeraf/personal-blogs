@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://blackmagezeraf.github.io/personal-blogs/sitemap.xml
